@@ -1,0 +1,15 @@
+{
+  "name": "build-a-bot-server",
+  "version": "1.0.0",
+  "description": "A server used by the Pluralsight Vue.js Fundamentals course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  
+  "dependencies": {
+    "axios": "^0.18.0",
+    "connect-history-api-fallback": "^1.5.0",
+    "express": "^4.16.3"
+  }
+}
